@@ -117,11 +117,6 @@ _Tela de Login_
 _Dashboard_
 
 
-## Autor
-
-- **Layze Alves** - [GitHub](https://github.com/layzealves)
-
-
 ## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
