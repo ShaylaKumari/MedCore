@@ -11,7 +11,7 @@ A plataforma visa centralizar e otimizar a gestão de informações de pacientes
 
 Você pode acessar a versão ao vivo do projeto clicando no link abaixo:
 
-**[Acessar MedCore](pendente inserir após hospedagem)**
+**[Acessar MedCore](https://medcore-sghss.vercel.app/)**
 
 
 ## Índice
@@ -23,7 +23,6 @@ Você pode acessar a versão ao vivo do projeto clicando no link abaixo:
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Como Executar o Projeto](#como-executar-o-projeto)
 - [Telas da Aplicação](#telas-da-aplicação)
-- [Autor](#autor)
 - [Licença](#licença)
 
 
